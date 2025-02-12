@@ -23,5 +23,7 @@ A python powered GUI tool for scanning for WordPress plugins on the homepage sou
 4. The results will be displayed in the output field.
 
 # Screenshots
+* Single Mode
 ![Screenshot 1](ss1.png)
+* Bulk Mode
 ![Screenshot 2](ss2.png)
